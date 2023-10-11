@@ -98,15 +98,6 @@ const Home = (props) => {
         <li  className='one'>Project</li>
         </div>
         </Link>
-
-       <a href="/">
-        <div className='item'>
-        <li  className='one'>Photography</li>
-        <li  className='one'>Photography</li>
-        </div>
-        </a>
-        
-
         <div onClick={scrolltocontact} className='item'>
         <li  className='one'>Contact</li>
         <li  className='one'>Contact</li>
