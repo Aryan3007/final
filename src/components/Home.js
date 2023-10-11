@@ -107,7 +107,7 @@ const Home = (props) => {
 
     </div>
 
-      <div id="top" className="container flex h-screen w-full gap-40 flex-row bg-[#202020] py-12 px-16 items-center justify-evenly pt-40">
+      <div id="top" className="container homepage flex h-screen w-full gap-40 flex-row bg-[#202020] py-12 px-16 items-center justify-evenly pt-40">
         <div>
           <div className="overflow">
           <h1 className="text-7xl text-white font-light name">I'M, ARYAN TYAGI</h1>
@@ -206,7 +206,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
       </div>
 
       <div className=" pt-32 skills container2 h-full pb-44 flex justify-center items-center bg-zinc-300 w-full">
-        <div className=" justify-center flex flex-col items-center h-full w-full">
+        <div className=" justify-center margggmob flex flex-col items-center h-full w-full">
           <div className="skillhead w-[65%] flex justify-start flex-col items-left">
             <h1 className="text-4xl font-semibold">SKILLS SECTION</h1>
             <div className="skillunder w-1/3 h-[5px] bg-[#0e1317] mt-2 mb-12 rounded-full"></div>
@@ -223,8 +223,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Proficient in developing dynamic and interactive web applications using JavaScript, with a strong grasp of ES6+ features, DOM manipulation.
               </p>
             </div>
 
@@ -237,8 +236,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Experienced in working with popular JavaScript frameworks such as React and Node.js, enabling the creation of efficient, scalable, and modern web solutions.
               </p>
             </div>
 
@@ -251,8 +249,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Adept at combining design principles with Tailwind CSS to craft pixel-perfect, user-centric web layouts, enhancing the overall user experience.
               </p>
             </div>
 
@@ -265,8 +262,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Beginner in implementing Redux for efficient and predictable state management in complex React applications.
               </p>
             </div>
 
@@ -279,8 +275,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Exploring the fundamentals of Next.js, with a focus on understanding the basics of server-side rendering (SSR), routing, and client-side rendering (CSR). Eager to dive into Next.js development and learn its capabilities.
               </p>
             </div>
 
@@ -293,8 +288,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Experienced in leveraging GSAP to enhance user experiences with engaging animations, transitions, and interactive elements, contributing to a more dynamic and visually appealing web environment.
               </p>
             </div>
 
@@ -308,8 +302,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Intermediate-level expertise in integrating Firebase into web and mobile applications for real-time data synchronization, authentication, cloud storage, and more.
               </p>
             </div>
 
@@ -322,8 +315,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Demonstrating a solid grasp of Spline 3D, I can design and animate 3D scenes and objects, working with splines, curves, and keyframes to create visually compelling motion graphics and animations.
               </p>
             </div>
 
@@ -337,8 +329,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              With a solid foundation in Adobe Illustrator, I can create and edit vector graphics, illustrations, and designs. Skilled in using tools and features to craft visually appealing artwork.
               </p>
             </div>
 
@@ -351,8 +342,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
               <hr className="my-3" />
               <p className="text-white">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea
-                eius cupiditate illo molestias.
+              Skilled in applying DSA concepts to solve a wide range of coding challenges and algorithmic problems, with a focus on logical thinking, code optimization, and algorithm analysis.
               </p>
             </div>
             
@@ -372,10 +362,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
               Feel free to contact me...
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex aut
-              optio exercitationem debitis id. Sint doloremque, quo suscipit
-              assumenda quaerat beatae blanditiis illum facere perferendis
-              provident! Quis eum ad nemo?
+            I'm always eager to connect, collaborate, and discuss exciting opportunities. Whether you have a project in mind, want to learn more about my work, or simply wish to say hello, don't hesitate to reach out. Feel free to contact me through the following channels:
             </p>
             <div className="contacticons flex flex-row text-xl my-8 text-zinc-700  gap-4">
               <a href="https://www.instagram.com/_aryannn.07_/"><BsInstagram className="hover:text-black hover:-translate-y-1 duration-150" /></a>

@@ -109,8 +109,8 @@ body {
 }
 .boxshadow {
   box-shadow: 0 0 10px black;
-  height: 200px;
-  width: 320px;
+  height: 250px;
+  width: 350px;
 }
 
 .boxshadow:hover {
@@ -303,9 +303,10 @@ body {
 }
 
 @media (max-width: 1024px) {
+
   .aboutdetails{
     width: 100%;
-    padding: 10px 50px;
+    padding: 10px;
   }
   .box{
     height: 400px;
