@@ -275,7 +275,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
             <div className="h-52 gsap cursor-default w-80 bg-[#202020] p-8 rounded-lg boxshadow">
               <div className="flex flex-row justify-start text-white gap-4 items-center">
-              <img src="./images/gsap.webp" className="h-12 w-12 rounded-lg" alt="" />
+              <img src="./images/gsap.webp" className="h-10 w-10 rounded-lg" alt="" />
                 <h1 className="text-xl">GSAP</h1>
                 <p className="text-sm">(Advance)</p>
               </div>
@@ -302,7 +302,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
             <div className="h-52 cursor-default w-80 bg-[#202020] p-8 rounded-lg boxshadow">
               <div className="flex flex-row justify-start text-white gap-2 items-center">
-                <img className="h-12 w-12" src="./images/spline.webp" alt="" />
+                <img className="h-10 w-10" src="./images/spline.webp" alt="" />
                 <h1 className="text-xl">SPLINE-3D</h1>
                 <p className="text-sm">(Intermediate)</p>
               </div>
@@ -329,7 +329,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
 
             <div className="h-52 cursor-default w-80 bg-[#202020] p-8 rounded-lg boxshadow">
               <div className="flex flex-row justify-start text-white gap-2 items-center">
-               <img className="w-10 h-12" src="./images/cpp.webp" alt="" />
+               <img className="w-10 h-10" src="./images/cpp.webp" alt="" />
                 <h1 className="text-xl">Cpp/DSA</h1>
                 <p className="text-sm">(Intermediate)</p>
               </div>
