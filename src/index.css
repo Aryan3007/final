@@ -242,7 +242,8 @@ body {
   }
   .skillup {
     padding: 10px;
-    margin: 0;
+    gap: 20px;
+    margin-top: 20px;
   }
   .aboutdetails {
     width: 100%;
