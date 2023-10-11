@@ -172,9 +172,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
             <div>
               <h1 className="font-bold">CODING/DSA</h1>
               <p className="text-black text-sm leading-relaxed">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
-                praesentium nam sed. Molestiae ex vero aperiam culpa id
-                praesentium voluptate sed
+              A dedicated coder with a passion for solving intricate problems and implementing efficient algorithms. Proficient in various programming languages and well-versed in data structures and algorithmic strategies to tackle complex challenges.
               </p>
             </div>
           </div>
@@ -184,9 +182,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
             <div>
               <h1 className="font-bold">WEB DEVELOPMENT</h1>
               <p className="text-black text-sm leading-relaxed">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
-                praesentium nam sed. Molestiae ex vero aperiam culpa id
-                praesentium voluptate sed
+              A seasoned web developer with a strong command of front-end technologies. Proficient in creating responsive, user-friendly websites and web applications, and experienced in building interactive and dynamic interfaces.
               </p>
             </div>
           </div>
@@ -196,9 +192,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
             <div>
               <h1 className="font-bold">GRAPHIC DESIGNING</h1>
               <p className="text-black text-sm leading-relaxed">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor
-                praesentium nam sed. Molestiae ex vero aperiam culpa id
-                praesentium voluptate sed
+              A creative graphic designer passionate about visual storytelling. Proficient in Adobe Illustrator, I bring ideas to life through compelling visuals, branding, and design that captivate and communicate effectively.
               </p>
             </div>
           </div>
