@@ -109,7 +109,7 @@ body {
 }
 .boxshadow {
   box-shadow: 0 0 10px black;
-  height: 280px;
+  height: 260px;
   width: 350px;
 }
 
@@ -154,6 +154,10 @@ body {
   }  
 } */
 @media (max-width: 600px) {
+  .boxshadow{
+    height: auto;
+    width: 100%;
+  }
   .port-container {
     height: 100%;
     width: 100%;
