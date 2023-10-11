@@ -172,7 +172,7 @@ Beyond coding, I'm a creative soul. As a graphic designer, I enjoy bringing aest
             <div>
               <h1 className="font-bold">CODING/DSA</h1>
               <p className="text-black text-sm leading-relaxed">
-              A dedicated coder with a passion for solving intricate problems and implementing efficient algorithms. Proficient in various programming languages and well-versed in data structures and algorithmic strategies to tackle complex challenges.
+              A dedicated coder with a passion for solving intricate problems and implementing efficient algorithms. Proficient in various programming languages.
               </p>
             </div>
           </div>
